@@ -1,2 +1,2 @@
-# Kitchor
-kitchor
+# KITCHOR
+Luxury Kitchen
